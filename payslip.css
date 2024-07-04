@@ -1,0 +1,307 @@
+.tarun{
+    border: 2px solid;
+    width: 75%;
+    height: 150vh;
+    background-color: rgba(236, 239, 243, 0.607);
+    justify-content: center;
+    padding: 0px;
+    padding-right: 500px;
+    margin-left:70px;
+    justify-content: center;
+    
+}
+.tarun2{
+    margin-left: 520px;
+    margin-bottom: -15px;
+}
+.tarun3{
+    margin-left: 550px;
+    margin-bottom: -20px;
+}
+.tarun4{
+    margin-left: 600px;
+}
+.tarun5{
+    margin-left: 600px;
+}
+.tarun6{
+    margin-left: 525px;
+}
+.tarun7{
+    margin-left: 560px;
+}
+.tarun8{
+    
+    margin-left: 500px;
+    margin-bottom: 1px;
+}
+.tarun9{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid;
+    width: 700px;
+    height: 200px;
+    margin-left: 350px;
+    justify-content: space-between;
+    text-decoration: none;
+    padding: 5px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+.tarun11{
+    display: flex;
+    flex-direction: column;
+    margin-left: 700px;
+}
+.change1{
+    position: absolute;
+    margin-left: 710px;
+    margin-top: -200px;
+}
+.change2{
+    position: absolute;
+    margin-left: 710px;
+    margin-top: -150px;
+
+}
+.change3{
+    position: absolute;
+    margin-left: 710px;
+    margin-top: -100px;
+}
+.change4{
+    position: absolute;
+    margin-left: 715px;
+    margin-top: -50px;
+
+}
+.tarun12{
+    display: flex;
+    flex-direction: column;
+    width: 710px;
+    height: 20px;
+    border: 2px solid;
+    border-color: black;
+    margin-left: 350px;
+    margin-top: 20px;
+
+    
+    
+}
+.tarun13{
+    display: flex;
+    flex-direction: row;
+    margin-left: -702px;
+    margin-top: 200px;
+    position: absolute;
+
+}
+.tarunB{
+    position: absolute;
+    margin-top: -500px;
+    background-color: #2e0031;
+    width: 12%;
+    margin-left: 350px;
+    margin-top: -472px;
+}
+.tarun14{
+    position: absolute;
+    margin-left: 705px;
+    margin-top: -200px;
+}
+.tarun15{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -200px;
+}
+.tarun16{
+    position: absolute;
+    margin-left: 1070px;
+    margin-top: -200px;
+
+}
+.tarun17{
+    position: absolute;
+    margin-left: 1300px;
+    margin-top: -200px;
+
+}
+.tarun18{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 710px;
+    height: 200px;
+    border: 2px solid;
+    border-color: black;
+    margin-left: 350px;
+    margin-bottom: 20px;
+
+}
+.tarun20{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.tarun21{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 40px;
+
+}
+.tarun22{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 80px;
+
+}
+.tarun23{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.tarun24{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 150px;
+
+}
+.tarun25{
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 160px;
+
+}
+.tarun26{
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 20px;
+
+}
+.tarun27{
+    position: absolute;
+    margin-left: 610px;
+    margin-top: 20px;
+
+}
+.tarun28{
+    position: absolute;
+    margin-left: 378px;
+    margin-top: 70px;
+}
+.tarun29{
+    position: absolute;
+    margin-left: 610px;
+    margin-top: 70px;
+
+}
+.tarun30{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 58.3%;
+    height: 2px;
+    border: 2px solid;
+    border-color: rgb(16, 14, 14);
+    margin-top: 180px;
+    margin-left: 350px;
+    
+    
+    
+
+}
+.tarun31{
+    
+        position: absolute;
+        margin-left: 10px;
+        margin-top: 183px;
+}
+.tarun32{
+    position: absolute;
+        margin-left: 300px;
+        margin-top: 183px;
+
+}
+.tarun33{
+    position: absolute;
+    margin-left: 365px;
+    margin-top: 183px;
+
+
+}
+.tarun34{
+    position: absolute;
+    margin-left: 610px;
+    margin-top: 183px;
+
+}
+.jimmy{
+    position: relative;
+    color: rgb(10, 8, 8);
+    border: 1px solid;
+    margin-left: 500px;
+    margin-top: 250px;
+    
+}
+.tarunc{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 380px;
+}
+.tarund{
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 520px;
+
+}
+.tarune{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 600px;
+
+}
+#vertical-line{
+    width: 1px;
+    height: 227px;
+    background-color: black;
+}
+.tommy{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: -283px;
+}
+#vertical-line1{
+    width: 1px;
+    height: 210px;
+    background-color: black;
+}
+.tommy1{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: -515px;
+
+}
+#horizontal-line{
+    width: 1px;
+    height: 910px;
+    background-color: black;
+}
+.tommy2{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -826px;
+}
+#horizontal-line1{
+    width: 1px;
+    height: 910px;
+    background-color: black;
+}
+.tommy3{
+    position: absolute;
+    margin-left: 1150px;
+    margin-top: -826px;
+}
